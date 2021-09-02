@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Vy Duong
+- 👋 Hi, I’m Vy Duong,a Software Engineer seeking for Entry-Level Job opportunity
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Java
 - 📫 How to reach me: vyduong0538@gmail.com
 
 <!---
